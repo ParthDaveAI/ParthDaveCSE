@@ -2,10 +2,8 @@
 
 ## Contact Information
 - **Email:** parthdavecse@gmail.com  
-- **LinkedIn:** [@parth-m-dave-softwareengineer](https://www.linkedin.com/in/parth-m-dave-softwareengineer/)  
+- **LinkedIn:** [@parth-m-dave-ai-ml](https://www.linkedin.com/in/parth-m-dave-ai-ml/)  
 - **GitHub:** [ParthDaveCSE](https://github.com/ParthDaveCSE)  
-- **Portfolio:** [parthdave.tech](https://parthdave.tech) *(Under Development)*  
-- **StudIEAust:** EA ID 10837824  
 
 ---
 
