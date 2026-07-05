@@ -1,4 +1,4 @@
-# Parth Dave - RESUME updated as on 3rd July 2025
+# Parth Dave - RESUME updated as on 5th July 2026
 
 ## Contact Information
 - **Email:** parthdavecse@gmail.com  
@@ -8,18 +8,16 @@
 ---
 
 ## Personal Summary
-- Enthusiastic and results-driven Software Engineer with a BTech in Computer Science & Engineering, currently pursuing a Master of Software Engineering (Professional) from The University of Queensland.  
-- Developed a robust Python-based data acquisition system and a front end of a web platform using HTML and CSS, demonstrating strong technical aptitude.  
-- Proven team player with excellent problem-solving skills, a strong commitment to professional integrity, and deep respect for collaborative processes and diverse perspectives.  
-- Passionate to gain global tech exposure and participate in innovative software solutions with an opportunity to work in an **internship** and **EPP industry placement**.  
+- B.Tech. graduate in Computer Science & Engineering with a strong interest in Artificial Intelligence and Machine Learning.
+- Proficient in Python, SQL, TensorFlow, Pandas, NumPy, and Git, with software development and data analysis skills.
+- Developed a real time Python based data acquisition and processing system during an internship at the Physical Research Laboratory (PRL), utilizing Pandas, NumPy, Matplotlib, PySerial, and Tkinter.  
+- Completed industry recognized certifications in Machine Learning, Deep Learning and Generative AI from DeepLearning.AI.
+- Strong analytical, problem solving, and teamwork skills, with a commitment to continuous learning and building intelligent, data driven solutions.
+- Seeking an entry-level AI/ML Engineer role where I can apply my technical skills and contribute to innovative AI driven projects.  
 
 ---
 
 ## Education
-### **Master of Software Engineering (Professional)**  
-*The University of Queensland, Brisbane, QLD, Australia*  
-*(Starting 27th July 2025, Expected completion: Jul 2027)*  
-
 ### **BTech — Computer Science & Engineering**  
 *Indus Institute of Technology & Engineering, Indus University, Ahmedabad, India*  
 *(Jun 2025) | CGPA: 8.8/10 | GPA: 3.5/4.0*  
@@ -30,12 +28,10 @@
 ---
 
 ## Technical Skills
-- **Programming Languages:** Python, C, PHP, JavaScript  
-- **Frontend Technologies:** HTML5, CSS3, JavaScript (Fundamentals), React.js  
-- **Backend & Runtime Environments:** Node.js  
+- **Programming Languages:** Python
+- **Frontend Technologies:** HTML5, CSS3    
 - **Frameworks/Libraries:** Matplotlib, Pandas, NumPy, PySerial, Tkinter, TensorFlow  
-- **Databases & Query Languages:** SQL, MongoDB, MySQL  
-- **Cloud Platforms & Services:** AWS (S3, CloudFront, ACM, Route 53, IAM)  
+- **Databases & Query Languages:** SQL, MySQL    
 - **Deployment & CI/CD:** Git, GitHub, GitHub Actions  
 - **Tools:** VS Code, Chrome Developer Tools, MySQL Workbench  
 - **Methodologies & Concepts:** Data Science, Machine Learning, Deep Learning, Generative AI, SDLC  
@@ -56,13 +52,6 @@
 ---
 
 ## Projects
-### **ParthDave.tech: Personal Portfolio Website**  
-*(In Progress)*  
-- **Live Demo:** [parthdave.tech](https://parthdave.tech)  
-- Designed and developed a responsive personal portfolio website to showcase projects, skills, and professional journey.  
-- **Technologies Used:** React.js, CSS3, GitHub Pages (or AWS S3 for hosting), Google Analytics 4.  
-- Features dynamic project showcases, contact form integration, and SEO optimization.  
-
 ### **LINKSY: Web-Based Platform Connecting Users with Service Providers**  
 *(Sep 2024)*  
 - Led frontend development using HTML5 and CSS3 for a responsive user interface.  
