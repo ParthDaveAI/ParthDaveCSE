@@ -3,7 +3,7 @@
 ## Contact Information
 - **Email:** parthdavecse@gmail.com  
 - **LinkedIn:** [@parth-m-dave-ai-ml](https://www.linkedin.com/in/parth-m-dave-ai-ml/)  
-- **GitHub:** [ParthDaveCSE](https://github.com/ParthDaveCSE)  
+- **GitHub:** [ParthDaveAI](https://github.com/ParthDaveAI)  
 
 ---
 
@@ -52,11 +52,18 @@
 ---
 
 ## Projects
-### **OS Automator - Python Based File Organization CLI Tool**
-*(Apr 2026)*
+## **OS Automator - Python Based File Organization CLI Tool**
+*(Mar 2026)*
 - Developed a Python based command-line application that automates file organization by categorizing files into structured folders based on their file extensions.
 - Implemented robust features including duplicate filename handling, retry logic for files in use, configurable categorization, execution logging and comprehensive unit testing using `pytest`.
 - Leveraged Python libraries such as `pathlib` and `argparse` to build a modular, reliable and maintainable application that streamlines file management.
+
+## **Weather Data Engineering Pipeline**
+*(Apr 2026)*
+- Developed a modular ETL (Extract, Transform, Load) pipeline using Python, SQLite and Pandas to transform raw weather data into machine learning ready datasets through data extraction, cleaning, validation and feature engineering.
+- Implemented data validation, time based and lag feature engineering, file based logging, CLI based execution and comprehensive unit testing using `pytest` to ensure pipeline reliability and maintainability.
+- Leveraged SQL, SQLite, Pandas and Python to build a scalable, efficient and well structured data processing workflow that automates data preparation for machine learning applications.
+
 
 
 ---
