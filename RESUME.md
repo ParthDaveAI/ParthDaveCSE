@@ -52,10 +52,12 @@
 ---
 
 ## Projects
-### **LINKSY: Web-Based Platform Connecting Users with Service Providers**  
-*(Sep 2024)*  
-- Led frontend development using HTML5 and CSS3 for a responsive user interface.  
-- Collaborated in a team to integrate frontend with backend functionalities.  
+### **OS Automator - Python Based File Organization CLI Tool**
+*(Apr 2026)*
+- Developed a Python based command-line application that automates file organization by categorizing files into structured folders based on their file extensions.
+- Implemented robust features including duplicate filename handling, retry logic for files in use, configurable categorization, execution logging and comprehensive unit testing using `pytest`.
+- Leveraged Python libraries such as `pathlib` and `argparse` to build a modular, reliable and maintainable application that streamlines file management.
+
 
 ---
 
