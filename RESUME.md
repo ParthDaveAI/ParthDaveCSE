@@ -39,7 +39,7 @@
 ---
 
 ## Work Experience
-### **Software Engineering Intern**  
+## **Software Engineering Intern**  
 *Physical Research Laboratory (PRL) Dept. of Space and Atmospheric Science, Government of India*  
 *(Jan 2025 to Apr 2025)*  
 
@@ -47,7 +47,16 @@
 - Developed an intuitive Tkinter GUI and integrated PySerial for hardware communication.  
 - Utilized Pandas, NumPy, and Matplotlib for data processing and visualization.  
 - Collaborated on an open-source initiative for atmospheric research.  
-- [Presentation Video Link](https://youtu.be/Z7bxBiAqMmU?si=p1zGUbtMPbYaX4H2)  
+- [Presentation Video Link](https://youtu.be/Z7bxBiAqMmU?si=p1zGUbtMPbYaX4H2)
+
+## **Software Development Intern**
+*Aubot Pty Ltd, Australia*
+*(Nov 2025 to Feb 2026)*
+
+- Reviewed HTML, CSS, JavaScript and Artificial Intelligence/Machine Learning curriculum to improve content quality and learning effectiveness.
+- Participated in user testing of the Python curriculum, providing feedback to enhance the learning experience and platform usability.
+- Collaborated with an international team in the development and evaluation of an interactive computer science education platform.
+- Strengthened knowledge of programming concepts, AI/ML fundamentals and collaborative software development in a professional environment.
 
 ---
 
@@ -64,7 +73,11 @@
 - Implemented data validation, time based and lag feature engineering, file based logging, CLI based execution and comprehensive unit testing using `pytest` to ensure pipeline reliability and maintainability.
 - Leveraged SQL, SQLite, Pandas and Python to build a scalable, efficient and well structured data processing workflow that automates data preparation for machine learning applications.
 
-
+## **Config-Driven ML Risk System**
+*(May 2026)*
+- Built production-grade clinical risk ML system with config-driven architecture, implementing end-to-end pipeline with Pydantic validation, confidence scoring, feature engineering and model training with class imbalance handling.
+- Developed CLI inference boundary with lazy singleton loading, batch processing, config drift detection, and audit logging. Automated CI/CD with 5 GitHub Actions jobs and nightly quality gates with alerting.
+- Integrated SHAP explainability, fairness analysis, MLflow tracking with full reproducibility (git hash + data hash + environment) and production bundle system coupling models with thresholds for safe deployment.
 
 ---
 
